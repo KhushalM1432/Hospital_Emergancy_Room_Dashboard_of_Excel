@@ -1,7 +1,5 @@
 # Hospital_Emergancy_Room_Dashboard_of_Excel
 Data Science
-# Hospital Emergency Room Dashboard
-
 ## Dashboard Preview
 
 ![Hospital Emergency Room Dashboard](dashboard.png)
