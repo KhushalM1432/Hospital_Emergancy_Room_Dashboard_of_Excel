@@ -1,5 +1,5 @@
 # Hospital_Emergancy_Room_Dashboard_of_Excel
-Data Science
+# Data Science
 ## 🏥 Hospital Emergency Room Dashboard | Excel
 
 Developed an interactive **Hospital Emergency Room Dashboard using Microsoft Excel** to analyze patient admissions, emergency room performance, waiting times, satisfaction scores, and healthcare service utilization.
