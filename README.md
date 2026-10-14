@@ -1,4 +1,5 @@
 <img width="1912" height="688" alt="Hospital Emergency Room Dashboard" src="https://github.com/user-attachments/assets/17a5a1cf-aaef-4d0a-a091-7eefeb85961e" />
+<img width="1912" height="688" alt="Hospital Emergency Room Dashboard" src="https://github.com/user-attachments/assets/25cf7862-6c5a-4715-8fbc-d00f352d2368" />
 
 ## 🏥 Hospital Emergency Room Dashboard | Excel
 
