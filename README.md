@@ -1,6 +1,8 @@
 <img width="1912" height="688" alt="Hospital Emergency Room Dashboard" src="https://github.com/user-attachments/assets/17a5a1cf-aaef-4d0a-a091-7eefeb85961e" />
 # Hospital_Emergancy_Room_Dashboard_of_Excel
+
 # Data Science
+
 ## 🏥 Hospital Emergency Room Dashboard | Excel
 
 Developed an interactive **Hospital Emergency Room Dashboard using Microsoft Excel** to analyze patient admissions, emergency room performance, waiting times, satisfaction scores, and healthcare service utilization.
