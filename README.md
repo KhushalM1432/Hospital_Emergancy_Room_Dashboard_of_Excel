@@ -16,3 +16,5 @@ Developed an interactive **Hospital Emergency Room Dashboard using Microsoft Exc
 **Tools & Skills:** Microsoft Excel, PivotTables, PivotCharts, Interactive Dashboards, KPI Reporting, Data Analysis, Data Visualization, Healthcare Analytics, and Business Intelligence.
 
 **Project Objective:** To convert healthcare data into actionable insights that support patient-flow monitoring, operational performance evaluation, and data-driven decision-making.
+
+💼 LinkedIn: https://lnkd.in/p/dwhMHuKU
