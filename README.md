@@ -1,6 +1,6 @@
 <img width="1912" height="688" alt="Hospital Emergency Room Dashboard" src="https://github.com/user-attachments/assets/17a5a1cf-aaef-4d0a-a091-7eefeb85961e" />
 
-## Hospital Emergency Room Analytics | Data Science & Business Intelligence Project | Excel
+## Hospital Emergency Room Analytics | Data_Science_&_Business_Intelligence_Project | Excel
 
 ## Data Science
 
